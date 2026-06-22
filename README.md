@@ -117,8 +117,6 @@
   </picture>
 </p>
 
-> 💡 To enable the snake animation, add a GitHub Actions workflow to generate it — see the [setup guide](https://github.com/Platane/snk).
-
 ---
 
 <p align="center">
