@@ -110,7 +110,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BozyBonifacio/BozyBonifacio/output/github-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BozyBonifacio/BozyBonifacio/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BozyBonifacio/BozyBonifacio/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/BozyBonifacio/BozyBonifacio/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 > 💡 To enable the snake animation, add a GitHub Actions workflow to generate it — see the [setup guide](https://github.com/Platane/snk).
