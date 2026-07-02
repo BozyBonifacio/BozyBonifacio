@@ -41,15 +41,34 @@
 
 **Cloud & Infrastructure**
 
-[![](https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,bash&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="48" title="Microsoft Azure" alt="Microsoft Azure" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" title="Amazon Web Services" alt="Amazon Web Services" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" title="Kubernetes" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="48" title="Terraform" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" title="Bash" alt="Bash" />
+</p>
 
 **DevOps & Observability**
 
-[![](https://skillicons.dev/icons?i=githubactions,docker,git,vscode,ansible&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="48" title="Ansible" alt="Ansible" />
+</p>
 
 **Languages & Development**
 
-[![](https://skillicons.dev/icons?i=cs,python,nodejs,js,html&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="48" title="C#" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" title="HTML5" alt="HTML5" />
+</p>
 
 ---
 
